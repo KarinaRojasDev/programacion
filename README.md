@@ -1,1 +1,1 @@
-# Ejercicos de Programación
+# Ejercicios de Programación
