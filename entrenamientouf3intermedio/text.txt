@@ -1,0 +1,2 @@
+esto es la primera linea de mi fichero
+y esto es la segunda linea
